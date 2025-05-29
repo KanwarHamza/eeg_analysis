@@ -7,4 +7,3 @@ scipy>=1.7.0
 pylsl>=1.16.2
 openai==0.28
 picard==0.7
-pip install --upgrade pip
